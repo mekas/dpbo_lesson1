@@ -1,5 +1,5 @@
 lesson1_sources = [
-  'main.vala','myclass.vala'
+  'main.vala','myclass.vala','person.vala', 'message.vala'
 ]
 
 lesson1_deps = [
